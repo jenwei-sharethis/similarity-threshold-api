@@ -3,6 +3,7 @@ This API collects seed and candidate articles with similarity score to median of
 
 ## Dependency
 gpt-similarity-check-api
+
 https://github.com/jenwei-sharethis/gpt-similarity-check-api
 
 ## Initialize GPTSimilarityThreshold object
